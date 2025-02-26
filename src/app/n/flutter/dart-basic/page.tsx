@@ -1,6 +1,3 @@
-// pages/dart-programming.js
-import Link from "next/link";
-import Image from "next/image";
 import BlogHeader from "@/components/BlogHeader";
 
 export default function DartProgramming() {
