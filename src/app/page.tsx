@@ -61,7 +61,7 @@ export default function Home() {
           <li className="">
             <Link
               className="underline cursor-pointer"
-              href="/feynman-technique"
+              href="https://dolarvenapp.vercel.app/"
             >
               Dolarven
             </Link>
