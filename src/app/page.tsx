@@ -68,6 +68,11 @@ export default function Home() {
           </li>
         </ol>
       </div>
+      <div className="fixed top-0 left-0 w-full bg-yellow-400 p-4 z-50">
+        <div className="container mx-auto text-center font-bold text-xl animate-pulse">
+          Sitio en construcción. ¡Pronto estará listo!
+        </div>
+      </div>
     </main>
   );
 }
