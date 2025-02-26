@@ -39,7 +39,7 @@ export default function Home() {
           <li className="">
             <Link
               className="underline cursor-pointer"
-              href="/n/productivity/feynman-technique"
+              href="/n/flutter/dart-basic"
             >
               Dart básico
             </Link>
